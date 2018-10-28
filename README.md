@@ -10,6 +10,8 @@
 
 最后一张人脸是前面两张人脸替换后的效果
 
+如果您觉得对您有帮助，麻烦给个星星
+
 Dependent environment: opencv3.0 up + Dlib
 
 The main steps are:
@@ -19,5 +21,7 @@ The main steps are:
   The experimental results are shown in the following figure:
 
 The last face is the effect of the replacement of the first two faces.
+
+If you feel helpful to you, please give me a star.
   
   ![结果图片](https://github.com/XuHao9166/FastChangeFace/blob/master/end.bmp)
