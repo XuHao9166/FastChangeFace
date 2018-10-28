@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Release|x64|D:\opencv实践\exsic296   基于Dlib的调换人脸（dlib人脸定位、提取人脸凸包、设置掩码、泊松融合）\|
